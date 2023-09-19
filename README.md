@@ -1,7 +1,6 @@
 # termux4all - Unlock the Power of Termux on Your Android Phone
 
-![termux4all](https://github.com/ShanSuharban/termux4all/assets/95335433/b884c215-7e82-4f76-969b-65c9764879de)
-
+![termux4all](https://github.com/ShanSuharban/termux4all/assets/95335433/548efab4-9e11-45a7-8e7a-402d584d2174)
 
 ## Table of Contents
 
@@ -52,7 +51,7 @@ app to push your limits and can learn a lot of different things which normally c
 only powerful app for android. 
 This is the complete oneshot of Termux App .After reading all these sections you will understand almost everything usecases about the App and when you look the "packages list & uses" section i created below .Your mind will blown up.
 ## Intro to Termux App
-![termuxlogo](https://github.com/ShanSuharban/termux4all/assets/95335433/a6faf1a8-f250-4b44-bbc7-c23a2584beb8)
+![termuxlogo](https://github.com/ShanSuharban/termux4all/assets/95335433/d29597dd-9d4e-4651-a36a-53cc18ccb9db)
 
 Termux is a free and open-source terminal emulator for Android (without root) that allows you to run a Linux environment on your Android device.
 Termux is an Android app that transforms your smartphone or tablet into a fully-featured Linux terminal. It's like having a mini-computer in your pocket.
