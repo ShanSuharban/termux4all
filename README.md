@@ -218,7 +218,8 @@ Basic Packages for Everyone
  
  tmate --> A terminal Multiplexer for sharing terminal sessions
  
-  htop --> Interactive process viewer for Linux
+ htop --> Interactive process viewer for Linux
+  
  --------------------------------------------------------------------------------------
 ## Development packages for Coding 
  Development environments / packages
