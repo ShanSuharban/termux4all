@@ -60,7 +60,9 @@ Termux is an Android app that transforms your smartphone or tablet into a fully-
 Termux serves various purposes, including development and security, among others. You can learn many things from this simple app instead of installing numerous apps from the Play Store or other third-party sources.
 If you're a beginner without access to a laptop or computer and have only an Android phone for coding or other purposes, then Termux is the ideal app for you. It enables you to do amazing things for both learning and fun. You can also explore numerous other use cases for Termux on the internet.
 Yes, Termux is currently better than any other apps available on the internet. I can't say it will always be the case, but for now, it's a top choice.
+
 For more details about Termux, you can visit: https://wiki.termux.com/wiki/Main_Page
+
 ## Termux App for Developers
 If you want to learn different programming languages, you'd typically need to install separate apps from the Play Store or use different online compilers for each language. In contrast, Termux allows you to install multiple languages like Python, C++, Go, etc., and run them all from a single terminal. It's that simple!
 Termux has no limits. You can learn various things like Linux commands, SSH, web development, and more from this single app. It's an exciting tool for anyone interested in coding without a laptop or computer.
@@ -77,21 +79,31 @@ If you're interested in security testing with your Android phone, I recommend ro
 Termux Developers removed all the Security packages on their repository. I dont complaint Termux App for the removal of popular security packages because they have their own reason for that. Lot of people use Termux App not for learning security purposes .They just used for the Privacy Violation,Fraud,Phishing ,SMS Bombing, Insta-Bruteforce, Facebook-Bruteforce etc and put it as their Whatsapp Status or Instagram Story. Im not saying i never used any tools on it . I did it when i started in Termux but i never put it on social media status or whatever. I only tested with my own not just others. I will share more details about this on 'My Experiences On Termux App Session'.
 A lot of content creators mis-spread Termux as a tool for spamming,phishing & other offensive activities  via social media platforms .Even some kids installed 'cmatrix' & 'hollywood' packages on Termux and they themselves pretend to be a hacker & put it on social media's to show off. But All this affect the Termux App ,Developers & the community itself.Even Mature communities of Linux enthusiasts & other tech experts often recognize this project as "script kiddie" due to above reasons.
 More details can found on:
+
 https://wiki.termux.com/wiki/Hacking
+
 ## Can We Install & Use Hacking Tools on Termux
 Obviously .Termux indirectly supports the security tools via proot-distro or nethunter .The way Termux did it is really interesting & appreciatable .Because in this way a normal script-kiddie or persons without really interested or knowledge can't install and setup that. You can install security tools on Termux app via proot-distro or kali nethunter. Termux also provides proot-distro package on their repository .So we can install all setup all security tools on proot-distro . I will explain it soon on "Termux For Advanced User's Session".
 ## How to Install Termux on Android Phone
 Dont install termux from playstore .It have some issues with android 10 and also issues with updating and upgrading.Also you dont need to buy additional plugins of termux from playstore .All are free on github and fdroid 
+
 -> ref link: https://github.com/termux/termux-app#google-play-store-deprecated
+
 -> install official termux from github or fdroid
 ( F-Droid is an open-source platform for discovering, downloading, and installing free and open-source Android apps. It's similar to the Google Play Store but focuses exclusively on providing free and open-source software (FOSS) for Android devices. )
+
 --> System requirements:
   -> Android 5.0 - 12.0 
+  
   -> CPU: AArch64, ARM, i686, x86_64.
+  
   -> Atleast 300 MB of disk space
+  
 -> termux app official repo: https://github.com/termux/termux-app
+
 -> termux download (fdroid): 
 https://f-droid.org/en/packages/com.termux/
+
 -> Download termux from above link.
 -> Choose the latest version or version that your phone  
    is comfortable with and download it.
